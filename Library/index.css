@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  table{
+      width: 100%;
+  }
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color:blue;
+}
+td{
+    text-align: center;
+}
+.create{
+    color:yellowgreen;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+
+  
